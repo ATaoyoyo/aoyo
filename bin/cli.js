@@ -40,7 +40,7 @@ program
     // 使用 figlet 绘制 Logo
     console.log(
       '\r\n' +
-        figlet.textSync('atao', {
+        figlet.textSync('aoyo', {
           font: 'Ghost',
           horizontalLayout: 'default',
           verticalLayout: 'default',
